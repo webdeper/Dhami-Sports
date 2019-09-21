@@ -10,34 +10,35 @@
 
 <div class="jumbotron" id="contact">
     <div class="container" style="backgroud-color: ">
-    <form id="contact-form">
+    <form id="contact-form" action="#" name="form" method="post" >
   <div class="form-group">
     <label for="exampleFormControlInput1">Email address</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+    <input type="email" name="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
 
   <div class="form-group">
     <label for="exampleFormControlInput1">Your Name</label>
-    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Your Name">
+    <input type="text" name="name" class="form-control" id="exampleFormControlInput1" placeholder="Your Name">
   </div>
 
 
   <div class="form-group">
     <label for="exampleFormControlInput1">Phone Number</label>
-    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Phone Number">
+    <input type="text" name="phone" class="form-control" id="exampleFormControlInput1" placeholder="Phone Number">
   </div>
 
 
   <div class="form-group">
     <label for="exampleFormControlInput1">Subject</label>
-    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Subject">
+    <input type="text" name="subject" class="form-control" id="exampleFormControlInput1" placeholder="Subject">
   </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Message</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+    <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
 
-  <button class="btn btn-primary">Submit</button>
+  <button class="btn btn-primary" name="send" type="submit">Submit</button>
+  <p><?php include 'contact_mail.php';  ?></p>
 </form>
 
     </div>
