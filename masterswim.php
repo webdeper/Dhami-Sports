@@ -18,6 +18,26 @@
    <div class="jumbotron" id="gallery">
        <div class="container">
        <div class="card-columns">
+
+                        <div class="card">
+                        <video id="VisaChipCardVideo" width="100%" height="100%" controls>
+                                                <source src="videos/8ccf1673-b6e1-4342-b65f-7c6f43fc2927.MP4" type="video/mp4">
+                                                <!--Browser does not support <video> tag -->
+                                            </video>
+
+                        </div>
+
+
+                        <div class="card">
+                        <video id="VisaChipCardVideo" width="100%" height="100%" controls>
+                                                <source src="videos/27f8e962-6e67-453c-98fc-a44ba6431df9.MP4" type="video/mp4">
+                                                <!--Browser does not support <video> tag -->
+                                            </video>
+
+                        </div>
+
+
+
                         <div class="card">
                         <a data-fancybox="gallery" href="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/27751453_1594267627323134_1356001626389400747_n.jpg?_nc_cat=106&_nc_oc=AQmylT2guKUAHoWsWB-9aWXZJ7K0MIH_lYwwJDhgPB4xEuDDskcz_FqafBylkJRQ7_g&_nc_ht=scontent.fblr4-2.fna&oh=5d8a7d8a8125f8feefd93ee6efb32c96&oe=5DF523F3">
                             <img src="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/27751453_1594267627323134_1356001626389400747_n.jpg?_nc_cat=106&_nc_oc=AQmylT2guKUAHoWsWB-9aWXZJ7K0MIH_lYwwJDhgPB4xEuDDskcz_FqafBylkJRQ7_g&_nc_ht=scontent.fblr4-2.fna&oh=5d8a7d8a8125f8feefd93ee6efb32c96&oe=5DF523F3" alt="" class="card-img-top"></a>
@@ -67,11 +87,47 @@
                     
                             </div>
                             
+                            <div class="card">
+                        <video id="VisaChipCardVideo" width="100%" height="100%" controls>
+                                                <source src="videos/61129747-e82f-4ba9-916e-68fd3386257e.MP4" type="video/mp4">
+                                                <!--Browser does not support <video> tag -->
+                                            </video>
+
+                        </div>
+
+
+
+
                             
                             <div class="card">
                             <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/27752182_1593544367395460_2281090584184000011_n.jpg?_nc_cat=102&_nc_oc=AQnA4Ion-L1Brn_XedV_bWT1iq_rqkKkmEMidOpg13CbsoWCYZrGkDBRjEz68ayhMNk&_nc_ht=scontent.fblr4-1.fna&oh=07f3633f4864d51b23cfc919e974911c&oe=5E01300D">
                                 <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/27752182_1593544367395460_2281090584184000011_n.jpg?_nc_cat=102&_nc_oc=AQnA4Ion-L1Brn_XedV_bWT1iq_rqkKkmEMidOpg13CbsoWCYZrGkDBRjEz68ayhMNk&_nc_ht=scontent.fblr4-1.fna&oh=07f3633f4864d51b23cfc919e974911c&oe=5E01300D" alt="" class="card-img-top"></a>
                         </div>
+
+   
+                        <div class="card">
+                            <a data-fancybox="gallery" href="images/IMG_8123.JPG">
+                                <img src="images/IMG_8123.JPG" alt="" class="card-img-top"></a>
+                        </div>
+
+
+
+   
+                        <div class="card">
+                            <a data-fancybox="gallery" href="images/IMG_8113.JPG">
+                                <img src="images/IMG_8113.JPG" alt="" class="card-img-top"></a>
+                        </div>
+
+
+
+
+                        <div class="card">
+                            <a data-fancybox="gallery" href="images/IMG_8062.JPG">
+                                <img src="images/IMG_8062.JPG" alt="" class="card-img-top"></a>
+                        </div>
+
+
+
 
 
 

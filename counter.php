@@ -8,7 +8,7 @@
     {
         $counter=(int )fread($handle,20);fclose($handle);
         $counter++;
-        echo"Number of visitors to this page so far: ". $counter . "" ;
+        echo" visitors : ". $counter . "" ;
         $handle= fopen("counter.txt", "w" ) ;
         fwrite($handle,$counter) ;fclose ($handle) ;
     }

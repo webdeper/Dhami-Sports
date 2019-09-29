@@ -4,8 +4,8 @@ include 'header.php';
 
 
 <!-- Carousel -->
-<div id="" class=" slide" data-ride="carousel">
-  <!-- 
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  
       <div class="carousel-inner">
         <div class="carousel-item ">
             <div class="jumbotron j1">
@@ -14,13 +14,13 @@ include 'header.php';
                         <div class="col-md-9">
                             <div style="margin-top: 100px;" class="headline">
                                 <h3><b>Events</b></h3>
-                                <h1>Euro Youth <br>
-                                    Hockey Festival</h1>
+                                <h1>International  <br>
+                                    School Basketball</h1>
 
-                                <h4> <i class="fas fa-map-marker-alt"></i> Minsk, Belarus</h4>
+                                <h4> <i class="fas fa-map-marker-alt"></i>  Almaty, Kazakhstan </h4>
                                 <br>
                                 <div class="btn-back">
-                                    <div class="btn-b"><a class="btn btn-primary " href="hockey-event.php">Know More<i class="fas fa-arrow-right" style="margin-left: 50px"></i></a></div>
+                                <div class="btn-b"><button class="btn btn-warning mt"><a href="schoolbasketball.php" style="color:white">Know more</a> <i class="fas fa-arrow-right" style="margin-left: 50px"></i></button></div>
 
 
                                 </div>
@@ -30,9 +30,9 @@ include 'header.php';
 
                             <div class="event-card">
                                 <div class="card text-center ">
-                                    <i>on</i>
-                                    <h1>21</h1>
-                                    <h5>March</h5>
+                                    <i>from</i>
+                                    <h1>16</h1>
+                                    <h5>October</h5>
                                     <h4>2019</h4>
                                 </div>
                             </div>
@@ -42,8 +42,48 @@ include 'header.php';
                 </div>
             </div>
         </div>
-   -->
-        <div class="c">
+
+
+
+        <div class="carousel-item ">
+            <div class="jumbotron j1 j3">
+                <div class="container p-4">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <div style="margin-top: 100px;" class="headline">
+                                <h3><b>Events</b></h3>
+                                <h1>International  <br>
+                                    School Swimming</h1>
+
+                                <h4> <i class="fas fa-map-marker-alt"></i>  Muscat, Oman </h4>
+                                <br>
+                                <div class="btn-back">
+                                <div class="btn-b"><button class="btn btn-warning mt"><a href="contact.php" style="color:white">Enquiry</a> <i class="fas fa-arrow-right" style="margin-left: 50px"></i></button></div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+
+                            <div class="event-card">
+                                <div class="card text-center ">
+                                    <i>from</i>
+                                    <h1>-</h1>
+                                    <h5>November</h5>
+                                    <h4>2019</h4>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+  
+        <div class="carousel-item active">
             <div class="jumbotron j2">
                 <div class="container p-4">
                     <div class="row">
@@ -96,7 +136,14 @@ include 'header.php';
             </div>
         </div>
     </div>
-
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 
@@ -318,7 +365,7 @@ include 'header.php';
 <div class="card-group">
     <div class="card">
         <div class="overlay">
-            <h2>America</h2>
+            <h2>USA</h2>
         </div>
         <img src="images/place/america.JPG" class="card-img-top"  alt="">
     </div>

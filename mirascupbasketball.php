@@ -68,19 +68,10 @@
                             </div>
                             
                             
-                            <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/29103931_1624214847661745_1453936894225497406_n.jpg?_nc_cat=106&_nc_oc=AQmjd-Z_wdu4wmEBNU0wubMXvb2K9eBeAqu0Md3XKmkamJkC15ffa_HJIQ1dEJFZYNE&_nc_ht=scontent.fblr4-2.fna&oh=a886b353c5616b6a9506f61d485a72bc&oe=5DFF6B05">
-                                <img src="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/29103931_1624214847661745_1453936894225497406_n.jpg?_nc_cat=106&_nc_oc=AQmjd-Z_wdu4wmEBNU0wubMXvb2K9eBeAqu0Md3XKmkamJkC15ffa_HJIQ1dEJFZYNE&_nc_ht=scontent.fblr4-2.fna&oh=a886b353c5616b6a9506f61d485a72bc&oe=5DFF6B05" alt="" class="card-img-top"></a>
-                        </div>
+                     
 
 
 
-                        <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49444793_2022724061144153_2317892462653210624_n.jpg?_nc_cat=103&_nc_oc=AQlQLwxgI9G-lhaKFigU637JRHCskXYHi46HIXz0SLIyqG7tNMTZ0Pqy25j2DZPdsZY&_nc_ht=scontent.fblr4-1.fna&oh=03d39dfe77a6b1d125902ef52fd6e7b9&oe=5E087E18">
-                                <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49444793_2022724061144153_2317892462653210624_n.jpg?_nc_cat=103&_nc_oc=AQlQLwxgI9G-lhaKFigU637JRHCskXYHi46HIXz0SLIyqG7tNMTZ0Pqy25j2DZPdsZY&_nc_ht=scontent.fblr4-1.fna&oh=03d39dfe77a6b1d125902ef52fd6e7b9&oe=5E087E18" alt="" class="card-img-top"></a>
-                        </div>
-
-                            
                             
                             <div class="card">
                             <a data-fancybox="gallery" href="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/29136905_1624765004273396_6754871967542594074_n.jpg?_nc_cat=105&_nc_oc=AQkWsq5EiTI47T4lYEyv1yx3y_hsI5p_YtXLSnb2n09lhD8cpygvgxpZtW8i2K4_grM&_nc_ht=scontent.fblr4-2.fna&oh=f6b538bcbc59fd4f6c8565abc25d62ed&oe=5DFB31B1">
@@ -107,48 +98,6 @@
 
 
 
-                            <div class="card">
-                        <a data-fancybox="gallery" href="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/49779361_2021725497910676_6649250638595096576_n.jpg?_nc_cat=106&_nc_oc=AQmONDP7anJZ8RYNn1o4jN21MpMDUUFQRid-x3dFoqrXogcei250hB4-L24rqXY9hyo&_nc_ht=scontent.fblr4-2.fna&oh=d3462b2469d0242901b9ac2a9780b484&oe=5E3AD707">
-                            <img src="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/49779361_2021725497910676_6649250638595096576_n.jpg?_nc_cat=106&_nc_oc=AQmONDP7anJZ8RYNn1o4jN21MpMDUUFQRid-x3dFoqrXogcei250hB4-L24rqXY9hyo&_nc_ht=scontent.fblr4-2.fna&oh=d3462b2469d0242901b9ac2a9780b484&oe=5E3AD707" alt="" class="card-img-top"></a>
-                
-                        </div>
-                  
-                            <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49509513_2021725441244015_4322985618234671104_n.jpg?_nc_cat=101&_nc_oc=AQkv_3o9PmUa0KCP5MAp9iaaNzKwYw7W13Qo_4XW34SB9liWriUVWM8JhzjC8C67evk&_nc_ht=scontent.fblr4-1.fna&oh=c5c4dabba7ec0201a32296c6c6a0cf64&oe=5DF8037F">
-                                <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49509513_2021725441244015_4322985618234671104_n.jpg?_nc_cat=101&_nc_oc=AQkv_3o9PmUa0KCP5MAp9iaaNzKwYw7W13Qo_4XW34SB9liWriUVWM8JhzjC8C67evk&_nc_ht=scontent.fblr4-1.fna&oh=c5c4dabba7ec0201a32296c6c6a0cf64&oe=5DF8037F" alt="" class="card-img-top"></a>
-                    
-                            </div>
-
-
-                            
-                            <div class="card">
-                        <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49344458_2021725131244046_3644268265913450496_n.jpg?_nc_cat=109&_nc_oc=AQmrFQ4ebnEfR7Ccc2Sp5OELcDpP2USPP9dnPV_mgmMgc-bTCTUOWZ2cULNfK2I3q-U&_nc_ht=scontent.fblr4-1.fna&oh=34068c0e6ffb135f32c1804e088f369f&oe=5E3B68FD">
-                            <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49344458_2021725131244046_3644268265913450496_n.jpg?_nc_cat=109&_nc_oc=AQmrFQ4ebnEfR7Ccc2Sp5OELcDpP2USPP9dnPV_mgmMgc-bTCTUOWZ2cULNfK2I3q-U&_nc_ht=scontent.fblr4-1.fna&oh=34068c0e6ffb135f32c1804e088f369f&oe=5E3B68FD" alt="" class="card-img-top"></a>
-                
-                        </div>
-                  
-                            <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/49616286_2021725034577389_1836288588522717184_n.jpg?_nc_cat=100&_nc_oc=AQmMZPKLwIHMgNr5IeKLYP70ZSTSP1zUWlL7pn5zfVnMJPtxvk6N52gvPnpz8TnOwok&_nc_ht=scontent.fblr4-2.fna&oh=a8ba7482216b62b79e739637e945eda6&oe=5DF1AAC4">
-                                <img src="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/49616286_2021725034577389_1836288588522717184_n.jpg?_nc_cat=100&_nc_oc=AQmMZPKLwIHMgNr5IeKLYP70ZSTSP1zUWlL7pn5zfVnMJPtxvk6N52gvPnpz8TnOwok&_nc_ht=scontent.fblr4-2.fna&oh=a8ba7482216b62b79e739637e945eda6&oe=5DF1AAC4" alt="" class="card-img-top"></a>
-                    
-                            </div>
-
-
-                            
-                            <div class="card">
-                        <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49441990_2021724777910748_5625073420090736640_n.jpg?_nc_cat=110&_nc_oc=AQn-u8kXHVwpf6h_8Log9kQRpinW4bjvso-oECp-ZktJ2nvQf8zl04imSnvZKhv6zQ4&_nc_ht=scontent.fblr4-1.fna&oh=0758ef1bde88de97c49ec20f51a42bb5&oe=5E39C6D4">
-                            <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49441990_2021724777910748_5625073420090736640_n.jpg?_nc_cat=110&_nc_oc=AQn-u8kXHVwpf6h_8Log9kQRpinW4bjvso-oECp-ZktJ2nvQf8zl04imSnvZKhv6zQ4&_nc_ht=scontent.fblr4-1.fna&oh=0758ef1bde88de97c49ec20f51a42bb5&oe=5E39C6D4" alt="" class="card-img-top"></a>
-                
-                        </div>
-                  
-                            <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49345080_2021724731244086_444502473453862912_n.jpg?_nc_cat=104&_nc_oc=AQk8Cnitm_NF57o_zqoxeY9GJJmsy3OzIj1JWNk24-hYGL61DBsYF9F-Ku4HVcW22NE&_nc_ht=scontent.fblr4-1.fna&oh=2b1164692df5811a658ae8f59b09f19f&oe=5E3A76F6">
-                                <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/49345080_2021724731244086_444502473453862912_n.jpg?_nc_cat=104&_nc_oc=AQk8Cnitm_NF57o_zqoxeY9GJJmsy3OzIj1JWNk24-hYGL61DBsYF9F-Ku4HVcW22NE&_nc_ht=scontent.fblr4-1.fna&oh=2b1164692df5811a658ae8f59b09f19f&oe=5E3A76F6" alt="" class="card-img-top"></a>
-                    
-                            </div>
-                            
-                            
-            
 
                         <br>
                         <br>

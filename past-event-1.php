@@ -52,12 +52,7 @@
                     
                             </div>
                             
-                            
-                            <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/55564264_2147144535368771_8157175413831892992_n.jpg?_nc_cat=107&_nc_oc=AQkGUeeWZDPGK7B0LkMZ6GxP73PNQti8EZ0eJfpmfJdjcmuDMVVhSe9pJAKCLw-qQogoUrwZQ87QQcZS7linM9I9&_nc_ht=scontent.fblr4-2.fna&oh=12bcec602016ee453450a6af494268f4&oe=5E337310">
-                                <img src="https://scontent.fblr4-2.fna.fbcdn.net/v/t1.0-9/55564264_2147144535368771_8157175413831892992_n.jpg?_nc_cat=107&_nc_oc=AQkGUeeWZDPGK7B0LkMZ6GxP73PNQti8EZ0eJfpmfJdjcmuDMVVhSe9pJAKCLw-qQogoUrwZQ87QQcZS7linM9I9&_nc_ht=scontent.fblr4-2.fna&oh=12bcec602016ee453450a6af494268f4&oe=5E337310" alt="" class="card-img-top"></a>
-                    
-                            </div>
+             
                             
                             
                             
@@ -88,11 +83,7 @@
                     
                             </div>
                             
-                            
-                            <div class="card">
-                            <a data-fancybox="gallery" href="images/yoga-pe/yoga8.jpg">
-                                <img src="images/yoga-pe/yoga8.jpg" alt="" class="card-img-top"></a>
-                        </div>
+               
 
 
                         <div class="card">
@@ -101,12 +92,7 @@
                 
                         </div>
                   
-                            <div class="card">
-                            <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/55845324_2147144225368802_3886849144072962048_n.jpg?_nc_cat=110&_nc_oc=AQm7CWOl1XojfkBGuW-6nRTu2yXAIFBjtJdcVQNuf8TWNz2UQMiMewYJiAthQMoYorpO4Z6uVszG-1-McSxuWYc1&_nc_ht=scontent.fblr4-1.fna&oh=d5da9d2e42129872bb2be7853f60290b&oe=5E3CCF95">
-                                <img src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/55845324_2147144225368802_3886849144072962048_n.jpg?_nc_cat=110&_nc_oc=AQm7CWOl1XojfkBGuW-6nRTu2yXAIFBjtJdcVQNuf8TWNz2UQMiMewYJiAthQMoYorpO4Z6uVszG-1-McSxuWYc1&_nc_ht=scontent.fblr4-1.fna&oh=d5da9d2e42129872bb2be7853f60290b&oe=5E3CCF95" alt="" class="card-img-top"></a>
-                    
-                            </div>
-                            
+         
                             
                             <div class="card">
                             <a data-fancybox="gallery" href="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/55731038_2147144015368823_3692680252510699520_n.jpg?_nc_cat=109&_nc_oc=AQk8osc-USdvVjfSa66c-3DHOJei4383pisef-EqCqUKGqaHNBOSkKsvNqGQNDC4q0L9iUJgJ9oPECQi73aw_RJe&_nc_ht=scontent.fblr4-1.fna&oh=d2342965b33c372488bc26cf99367629&oe=5DF62A81">
@@ -129,7 +115,71 @@
                     
                             </div>
                             
+
+                             
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/1.jpeg">
+                                <img src="images/pastyoga/1.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
+
+
+
+                                           
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/2.jpeg">
+                                <img src="images/pastyoga/2.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
+
+
+
+                                           
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/3.jpeg">
+                                <img src="images/pastyoga/3.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
+
+
+
+                                           
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/4.jpeg">
+                                <img src="images/pastyoga/4.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
+
+
+
+                                           
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/5.jpeg">
+                                <img src="images/pastyoga/5.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
                             
+
+
+
+
+
+                            
+                                           
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/6.jpeg">
+                                <img src="images/pastyoga/6.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
+
+
+
+                                           
+                            <div class="card">
+                            <a data-fancybox="gallery" href="images/pastyoga/7.jpeg">
+                                <img src="images/pastyoga/7.jpeg" alt="" class="card-img-top"></a>
+                    
+                            </div>
             
 
                         <br>

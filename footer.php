@@ -51,14 +51,9 @@
     <hr>
     <div class="container-fluid" id="address">
       <div class="card-deck">
-        <div class="card">
-          <h4 style="font-size: 18px;">INDIA, GWALIOR</h4>
-          <p>67- Yamuna Nagar, Gwalior, MP, India - 474011</p>
-        </div>
-        <div class="card">
-          <h4 style="font-size: 18px;">INDIA, GWALIOR</h4>
-          <p>67- Yamuna Nagar, Gwalior, MP, India - 474011</p>
-        </div>
+     
+      
+       
 
         <div class="card">
           <div class="row">
@@ -66,7 +61,7 @@
               <i class="fas fa-phone fa-2x" style="color:#01a3fe "></i>
             </div>
             <div class="col-10"> <h4 style="font-size: 18px;" >PHONE NUMBER</h4>
-          <p>81 + 9834 54 37</p></div>
+          <p>+91 9131959638</p></div>
           </div>
         </div>
 
@@ -76,8 +71,14 @@
             <i class="fab fa-whatsapp fa-2x" style="color:#01a3fe "></i>
             </div>
             <div class="col-10"> <h4 style="font-size: 18px;">WHATSAPP</h4>
-          <p>81 + 9834 54 37</p></div>
+          <p>+7 7014886778</p></div>
           </div>
+        </div>
+
+
+        <div class="card">
+          <h4 style="font-size: 18px;">INDIA, GWALIOR</h4>
+          <p>67- Yamuna Nagar, Gwalior, MP, India - 474011</p>
         </div>
       </div>
     </div>
@@ -87,7 +88,7 @@
 </footer>
       <div class="footer-2"> 
   
-  <p>Copyrights 2019 Dhamisports, Inc. All rights reserved</p>
+  <p>Copyrights 2019 Dhamisports, Inc. All rights reserved [ <?php include 'counter.php'; ?> ]</p>
 
 </div>
 

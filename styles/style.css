@@ -99,13 +99,28 @@ body {
 .j1 {
   background: linear-gradient(
       70deg,
-      rgba(4, 14, 32, 0.8) 50%,
-      rgba(4, 14, 32, 0.8) 50%
+      rgba(4, 14, 32, 0.5) 50%,
+      rgba(4, 14, 32, 0.5) 50%
     ),
-    url("../images/hockey.jpg");
+    url("../images/basketball.2jpg.jpg");
   position: ;
   background-size: cover;
-  background-position: bottom;
+  background-position: top top top top;
+  background-attachment: fixed;
+  margin-top: -70px;
+  width: 100%;
+  height: 100vh;
+}
+.j3 {
+  background: linear-gradient(
+      70deg,
+      rgba(4, 14, 32, 0.5) 50%,
+      rgba(4, 14, 32, 0.5) 50%
+    ),
+    url("../images/swim.jpg");
+  position: ;
+  background-size: cover;
+  background-position: top;
   background-attachment: fixed;
   margin-top: -70px;
   width: 100%;
@@ -535,13 +550,13 @@ body {
   );
 }
 #desitination .card-group {
-  margin: 0px;
-  padding: 0px;
+  margin: 0 auto;
+  padding: 0 auto;
 }
 #desitination .card {
+  margin: 0 auto;
   border: 0px solid;
   border-radius: 0px;
-  margin: 0px;
 }
 #destination .card .overlay:hover {
   background: linear-gradient(
@@ -1053,6 +1068,78 @@ hr {
   .j2 p {
     font-size: 11px;
   }
+
+  .j1 {
+    padding: 0px;
+    margin: 0px;
+    margin-top: ;
+  }
+  .j1 .btn {
+    width: 170px;
+    height: 45px;
+    background: #01a3fe;
+    border: 0px solid;
+    border-radius: 0px;
+    color: white;
+    font-family: bwr;
+    font-size: 12px;
+    border-radius: 00px;
+  }
+  .j1 .btn-b {
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    background: transparent;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid white;
+    border-radius: 00px;
+  }
+  .j1 h1 {
+    font-size: 35px;
+  }
+  .j1 h3 {
+    font-size: 15px;
+  }
+  .j1 p {
+    font-size: 11px;
+  }
+
+  .j3 {
+    padding: 0px;
+    margin: 0px;
+    margin-top: ;
+  }
+  .j3 .btn {
+    width: 170px;
+    height: 45px;
+    background: #01a3fe;
+    border: 0px solid;
+    border-radius: 0px;
+    color: white;
+    font-family: bwr;
+    font-size: 12px;
+    border-radius: 00px;
+  }
+  .j3 .btn-b {
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    background: transparent;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid white;
+    border-radius: 00px;
+  }
+  .j3 h1 {
+    font-size: 35px;
+  }
+  .j3 h3 {
+    font-size: 15px;
+  }
+  .j3 p {
+    font-size: 11px;
+  }
   .video-card {
     display: none;
   }
@@ -1067,5 +1154,46 @@ hr {
   }
   .footer-2 p {
     font-size: 10px;
+  }
+  #packages-1 .card {
+    border: 0px solid;
+    height: 250px;
+    box-shadow: 9px 21px 82px -41px rgba(163, 163, 163, 1);
+  }
+  #packages-1 .card img {
+    height: 250px;
+  }
+
+  .j1 .event-card {
+    margin: 30px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .j1 .event-card .card {
+    width: 100%;
+    height: 180px;
+    border: 2px solid white;
+    border-radius: 0px;
+    background: transparent;
+  }
+
+  .j1 .event-card .card h1 {
+    font-family: bwbo;
+    font-size: 70px;
+    color: #01a3fe;
+    margin-top: -10px;
+  }
+  .j1 .event-card .card h5 {
+    font-family: rm;
+    font-size: 14px;
+    color: white;
+    margin-top: -10px;
+  }
+  .j1 .event-card .card h4 {
+    font-family: bwr;
+    font-size: 16px;
+    color: white;
+    border-top: 4px solid white;
+    line-height: 50px;
   }
 }
